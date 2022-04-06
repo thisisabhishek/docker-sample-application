@@ -1,8 +1,8 @@
 # Docker Getting Started Tutorial
 
-This tutorial has been written with the intent of helping folks get up and running
-with containers and is designed to work with Docker Desktop. While not going too much 
-into depth, it covers the following topics:
+This sample application of NodeJs is a simple TODO application that we can run inside a Docker container, by following the Getting started tutorial URL below.
+
+It covers the following topics:
 
 - Running your first container
 - Building containers
